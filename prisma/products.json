@@ -1,38 +1,83 @@
 [
   {
-    "name": "avant-garde lamp",
-    "company": "Modenza",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "name": "RTX 2080",
+    "company": "Nvidia",
+    "description": "High-performance graphics card designed for modern gaming and creative workloads. Built with advanced GPU architecture to deliver smooth frame rates, ray tracing capabilities, and AI-powered enhancements for rendering and video processing.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/943150/pexels-photo-943150.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 100,
+    "image": "https://images.pexels.com/photos/8622912/pexels-photo-8622912.jpeg",
+    "price": 799,
     "clerkId": "clerkId"
   },
   {
-    "name": "chic chair",
-    "company": "Luxora",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "name": "Ryzen 7 9700X",
+    "company": "AMD",
+    "description": "Powerful multi-core processor optimized for gaming, productivity, and content creation. Delivers exceptional performance for multitasking, compiling code, video editing, and demanding applications.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/5705090/pexels-photo-5705090.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 200,
+    "image": "https://images.pexels.com/photos/32300577/pexels-photo-32300577.jpeg",
+    "price": 499,
     "clerkId": "clerkId"
   },
   {
-    "name": "comfy bed",
-    "company": "Homestead",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-    "featured": true,
-    "image": "https://images.pexels.com/photos/1034584/pexels-photo-1034584.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 300,
-    "clerkId": "clerkId"
-  },
-  {
-    "name": "contemporary sofa",
-    "company": "Comfora",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "name": "ASUS Z590 TUF Gaming",
+    "company": "ASUS",
+    "description": "Feature-rich motherboard with advanced power delivery, PCIe expansion slots, and high-speed connectivity. Built for stability and performance for gamers, developers, and PC enthusiasts.",
     "featured": false,
-    "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 400,
+    "image": "https://images.pexels.com/photos/26893165/pexels-photo-26893165.jpeg",
+    "price": 299,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "T-Force Delta DDR5 2x16",
+    "company": "Team Group",
+    "description": "High-speed DDR5 memory designed for gaming rigs and workstations. Includes customizable RGB lighting and optimized latency for smooth system performance.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/31993524/pexels-photo-31993524.jpeg",
+    "price": 159,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "FireCuda 520 SSD 1TB",
+    "company": "Seagate",
+    "description": "Ultra-fast NVMe SSD offering lightning-fast read and write speeds. Ideal for operating systems, game libraries, and heavy workloads requiring rapid storage performance.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/28666524/pexels-photo-28666524.jpeg",
+    "price": 189,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Gigabyt GM550 Gold",
+    "company": "Gigabyte",
+    "description": "Efficient modular power supply with high wattage capacity and stable voltage output. Designed for modern gaming systems with multiple GPUs and high-end CPUs.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/11738995/pexels-photo-11738995.jpeg",
+    "price": 149,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Arctic B650M AIO",
+    "company": "Arctic",
+    "description": "All-in-one liquid cooling solution that keeps high-performance CPUs running at optimal temperatures. Features quiet fans and sleek design for modern PC builds.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/32991895/pexels-photo-32991895.jpeg",
+    "price": 179,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Lian Li C55I Mid Tower Case",
+    "company": "Lian Li",
+    "description": "Premium mid-tower PC case with tempered glass panels and excellent airflow. Designed for cable management, modular components, and stylish gaming setups.",
+    "featured": false,
+    "image": "https://images.pexels.com/photos/28190154/pexels-photo-28190154.jpeg",
+    "price": 129,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Logitect G703 Mechanical Keyboard",
+    "company": "Logitech",
+    "description": "Mechanical keyboard designed for gaming precision and fast response times. Includes programmable keys, RGB lighting, and durable switches for long-term use.",
+    "featured": true,
+    "image": "https://images.pexels.com/photos/11382767/pexels-photo-11382767.jpeg/",
+    "price": 139,
     "clerkId": "clerkId"
   }
 ]
